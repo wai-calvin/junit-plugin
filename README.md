@@ -1,4 +1,4 @@
-# JUnit Plugin for Jenkins
+# JUnit Plugin for Jenkin
 
 [![Jenkins Plugin](https://img.shields.io/jenkins/plugin/v/junit.svg)](https://plugins.jenkins.io/junit)
 [![GitHub release](https://img.shields.io/github/release/jenkinsci/junit-plugin.svg?label=release)](https://github.com/jenkinsci/junit-plugin/releases/latest)
