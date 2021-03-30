@@ -198,4 +198,16 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+    <distributionManagement>
+        <repository>
+            <id>central</id>
+            <name>56ee39c3aef0-releases</name>
+            <url>http://localhost:8081/artifactory/junit</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <name>56ee39c3aef0-snapshots</name>
+            <url>http://localhost:8081/artifactory/junit</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
