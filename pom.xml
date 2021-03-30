@@ -198,6 +198,7 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+    
     <distributionManagement>
         <repository>
             <id>central</id>
